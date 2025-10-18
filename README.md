@@ -507,6 +507,5 @@ BlocBuilder<WeatherCubit, WeatherStates>(
 
 *آخر تحديث: أكتوبر 2025*
 
-[العودة للأعلى](#️-weather-app)
 
 </div>
